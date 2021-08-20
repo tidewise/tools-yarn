@@ -1,0 +1,9 @@
+<package>
+    <description brief="fake package to install Yarn in an Autoproj workspace">
+    </description>
+    <maintainer>Sylvain Joyeux/sylvain.joyeux@tidewise.io</maintainer>
+
+    <license>MIT</license>
+
+    <depend package="nodejs" />
+</package>
