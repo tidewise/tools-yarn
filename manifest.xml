@@ -6,4 +6,5 @@
     <license>MIT</license>
 
     <depend package="nodejs" />
+    <depend package="npm" />
 </package>
